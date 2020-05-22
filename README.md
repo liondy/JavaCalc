@@ -8,7 +8,8 @@ Note that this application cannot perform landscape action so that there's no sc
 
 # Release
 I create a release so that you can check out my application on your handphone. <br>
-Note that this application only supports Android higher than 4.1 (Jelly Bean).
+Note that this application only supports Android higher than 4.1 (Jelly Bean). <br>
+Navigate to: https://github.com/liondy/JavaCalc/releases
 
 # Screenshot
 ![12011207312900](https://user-images.githubusercontent.com/44316758/82676441-9ba87480-9c70-11ea-895f-e046ea082af4.jpg)
